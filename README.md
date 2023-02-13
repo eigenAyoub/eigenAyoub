@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eigenAyoub
+- 👋 Hi, I’m Ayoub.
 - 👀 I’m interested in ML / RL / Optimization.
 - 🌱 I’m currently a Postgraduate at the University of PASSAU, Germany 
 - 📫 About me: https://eigenAyoub.github.io/about/
